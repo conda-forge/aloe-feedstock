@@ -14,9 +14,7 @@ Summary: Behavior Driven Development using Cucumber for Python
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/aloe-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/aloe-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/aloe-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/aloe-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/aloe-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/aloe-feedstock/branch/master)
+All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/aloe-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/aloe-feedstock)
 
 Current release info
 ====================
