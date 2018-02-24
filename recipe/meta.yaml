@@ -1,5 +1,5 @@
 {% set name = "aloe" %}
-{% set version = "0.1.14" %}
+{% set version = "0.1.15" %}
 {% set sha256sum = '1ce12bbbef69063c6222042b42a3cd2ce7b9fbe817b2330609678a98b58c2a38' %}
 
 package:
