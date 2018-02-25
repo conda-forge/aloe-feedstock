@@ -1,6 +1,6 @@
 {% set name = "aloe" %}
 {% set version = "0.1.15" %}
-{% set sha256sum = '1ce12bbbef69063c6222042b42a3cd2ce7b9fbe817b2330609678a98b58c2a38' %}
+{% set sha256 = '708bbb3a0e75759ef4f199de9f0730fd533737c708cc6e1007414ec394b8f8d4' %}
 
 package:
   name: {{ name }}
@@ -9,7 +9,7 @@ package:
 source:
   fn: {{ name }}-{{ version }}.tar.gz
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: {{ sha256sum }}
+  sha256: {{ sha256 }}
 
 build:
   noarch: python
