@@ -14,12 +14,15 @@ Summary: Behavior Driven Development using Cucumber for Python
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/aloe-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/aloe-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/aloe-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/aloe-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/aloe/badges/version.svg)](https://anaconda.org/conda-forge/aloe)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/aloe/badges/downloads.svg)](https://anaconda.org/conda-forge/aloe)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-aloe-green.svg)](https://anaconda.org/conda-forge/aloe) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/aloe.svg)](https://anaconda.org/conda-forge/aloe) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/aloe.svg)](https://anaconda.org/conda-forge/aloe) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/aloe.svg)](https://anaconda.org/conda-forge/aloe) |
 
 Installing aloe
 ===============
