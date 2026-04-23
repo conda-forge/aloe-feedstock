@@ -1,6 +1,6 @@
 {% set name = "aloe" %}
-{% set version = "0.1.18" %}
-{% set sha256 = "0fd48b7dc75669245d4f28daf68930446f33e75732c61f77584d69489cd717b4" %}
+{% set version = "0.2.0" %}
+{% set sha256 = "d73f69d933600f3ba20c6773df485cc42b5b2e8c274fa3f6798750aedbaf5aa2" %}
 
 package:
   name: {{ name }}
